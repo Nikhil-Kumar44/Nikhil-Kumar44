@@ -65,8 +65,8 @@ A smart health & safety platform with:
 ---
 
 ## 📫 Connect With Me  
-📩 **Email:** your_email@example.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/your-profile  
+📩 **Email:** nikhilkumar440440@gmail.com.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/nikhilkumar-cs/ 
 🌐 **Portfolio:** (Coming Soon)  
 
 ---
