@@ -67,7 +67,7 @@ A smart health & safety platform with:
 ## 📫 Connect With Me  
 📩 **Email:** nikhilkumar440440@gmail.com.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/nikhilkumar-cs/ 
-🌐 **Portfolio:** (Coming Soon)  
+🌐 **Portfolio:** https://personalportfolio-fawn-iota.vercel.app/  
 
 ---
 
