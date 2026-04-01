@@ -54,13 +54,24 @@ A smart health & safety platform with:
 - Sections for skills, projects, resume, contact  
 - Built with HTML/CSS/JS  
 
----
+--- 
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Kumar44&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Kumar44&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-three-smoky-40.vercel.app/api?username=Nikhil-Kumar44&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats-three-smoky-40.vercel.app/api/top-langs/?username=Nikhil-Kumar44&layout=compact&theme=tokyonight&cache_seconds=86400" height="160" />
 </p>
+
+<br/>
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nikhil-Kumar44&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<br/><br/>
 
 ---
 
