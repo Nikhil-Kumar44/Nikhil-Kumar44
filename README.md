@@ -34,14 +34,12 @@
 ---
 
 ## 📌 Featured Projects  
-### 🟩 **Elderly Care Web App**  
-A smart health & safety platform with:  
-- Medication reminders  
-- SOS alert system  
-- Hospital locator  
-- Caretaker dashboard  
-- Health vitals monitoring  
-- Document organizer  
+### 🟩 QueryMind
+
+👉 AI-powered Natural Language to SQL Query Generator
+
+- Built using FastAPI, MySQL, LangChain, Gemini API
+- Converts user prompts into SQL queries  
 
 ### 🟦 Kubernetes Deployment Project  
 - Flask + MongoDB full-stack app  
