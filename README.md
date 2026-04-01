@@ -57,11 +57,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-three-smoky-40.vercel.app/api?username=Nikhil-Kumar44&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-stats-three-smoky-40.vercel.app/api/top-langs/?username=Nikhil-Kumar44&layout=compact&theme=tokyonight&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats-three-smoky-40.vercel.app/api/top-langs/?username=Nikhil-Kumar44&layout=compact&theme=tokyonight&cache_seconds=86400" height="200" 
+    width= "600" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats-three-smoky-40.vercel.app/api?username=Nikhil-Kumar44&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="200" />
+  
 </p>
-
-<br/>
 
 ## 🔥 GitHub Streak  
 
