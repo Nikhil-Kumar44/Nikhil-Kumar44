@@ -10,17 +10,17 @@
 - 💻 Love building real-world projects that solve meaningful problems  
 - ☁️ Exploring DevOps, Kubernetes, Docker & Cloud Technologies  
 - 🔧 Working on an **Elderly Care Web App** with advanced features (SOS, reminders, vitals tracker, caretaker portal)  
-- 🎯 Strong in: HTML, CSS, JavaScript, React, Node.js, Python & C++  
+- 🎯 Strong in: HTML, CSS, JavaScript, React, Node.js, C++ & Python  
 - 📚 Learning: Backend APIs, DBs, System Design, and Kubernetes  
 
 ---
 
 ## 🛠️ Tech Stack  
 ### 💻 **Languages**
-`C++` `Python` `JavaScript` `HTML` `CSS` 
+`C++` `Python` `JavaScript` `HTML` `CSS` `Java`
 
 ### 🧰 **Frameworks & Tools**
-`React` `Node.js` `Express` `Bootstrap` `Tailwind`
+`React` `Node.js` `Express`  `Tailwind`
 
 ### 🗄️ **Databases**
 `MongoDB` `MySQL`
@@ -29,7 +29,7 @@
 `Git` `GitHub` `Docker` `Kubernetes` `Minikube`
 
 ### 🧠 **Others**
-`REST APIs` `Linux` `Data Structures & Algorithms`
+`REST APIs`  `Data Structures & Algorithms`
 
 ---
 
@@ -58,8 +58,8 @@ A smart health & safety platform with:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Kumar44&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Kumar44&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
